@@ -1,0 +1,153 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: '400'px;
+}
+
+header {
+  background-color: #FFF0ED;
+  padding-top: 1.875em;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.3125em;
+  font-weight: 400;
+}
+/** Inline header **/
+
+.beans1 {
+  display: inline-block;
+  margin: 0.625em;
+  font-size: 2.0625em;
+  font-weight: 300;
+}
+.nitro {
+  display: inline-block;
+  margin: 0.625em;
+  text-decoration: none;
+  
+}
+.about {
+    display: inline-block;
+    margin: 0.625em;
+}
+
+.menu {
+  display: inline-block;
+  margin: 0.625em;
+}
+
+.shopnow {
+  display: inline-block;
+  margin: 0.625em;
+}
+
+container ul {
+  color: rgb(255, 255, 255);
+}
+
+/** Top menu near circle image **/
+
+.topmenu-container {
+  margin: 0 auto;
+  background-color: #393939;
+  color: white;
+  text-align:center;
+  left: 0;
+  right: 0;
+  position:absolute;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-right: 1.875em;
+  padding-left: 1.875em;
+  width: 16%
+}
+
+.circleimage{
+background-position: center;
+background-size: cover;
+
+}
+
+
+container ul {
+background-color:#393939;
+position: relative;
+text-align: center;
+width: 100%;
+height: 30%;
+}
+
+/** Navigation Menu Links **/
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: white;
+  text-align: left;
+  font-size: 1.313em;
+  font-weight: 400;
+  width: 7.500em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/** Menu items **/
+
+.menu-container {
+  display:flex;
+  flex-direction: column;
+}
+
+.flex-hotdrinks {
+background-color: #FFF0ED;
+}
+
+.flex-colddrinks {
+background-color: #F7F7F7;
+}
+
+.flex-pastries {
+  background-color: #FFF0ED;
+}
+
+.price {
+  color: #5BACC3;
+  text-align: center;
+}
+
+section h2{
+  text-align: center;
+}
+
+section h4 {
+  text-align: center;
+}
+.paragraph {
+  width: 50%;
+  font-size: 1.125em;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/** Headings **/
+h1 {
+font-size: 3.750em;
+font-weight: 300;
+
+}
+
+h2 {
+  font-size: 3.750em;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 2.063em;
+  font-weight: 300;
+  text-align: center;
+}

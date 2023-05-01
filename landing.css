@@ -1,0 +1,122 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+  }
+  
+  /* Navigation */
+
+  .header-all{
+    background-color: #FFF0ED;
+  }
+  header {
+    padding-top: 1.875em;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 1.3125em;
+    font-weight: 400;
+  }
+  /** Inline header **/
+  
+  .beans1 {
+    display: inline-block;
+    margin: 0.625em;
+    font-size: 2.0625em;
+    font-weight: 300;
+  }
+  .nitro {
+    display: inline-block;
+    margin: 0.625em;
+    text-decoration: none;
+    
+  }
+  .about {
+      display: inline-block;
+      margin: 0.625em;
+  }
+  
+  .menu {
+    display: inline-block;
+    margin: 0.625em;
+  }
+
+  .shopnow
+  {display: inline-block;
+  margin: 0.625em;}
+
+  /* Bag within section w/main heading "Nitro Coffee" */
+
+.mainbag {
+    background-color:#FFF0ED;
+    color: #393939;
+}
+
+/* Paragraph styling */
+
+.drinktypes {
+    background-color:#FFF;
+}
+.blueprice {
+    color: #5BACC3;
+}
+
+/* Promo code above footer */
+
+.promo {
+background-color:#393939;
+color:#FFF;
+width: 90%
+}
+
+/*All buttons */
+
+button {
+    font-size: 1.313em;
+    font-weight: 400;
+    background-color: #5BACC3;
+    color: #FFF
+}
+
+/*footer*/
+
+footer {
+    font-size: 2.063em;
+    font-weight: 300;
+    background-color: #FFF0ED;
+}
+
+/* Removed underline from links */
+
+a:link { text-decoration: none; }
+
+/* Headings */
+
+h1 {
+    font-size: 3.750em;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 3.750em;
+    font-weight: 300;
+}
+
+h3{
+    font-size: 2.063em;
+    font-weight: 300;
+}
+
+/* Styling for product cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 15.938em;
+  height: 23.125em;
+  margin-bottom: 0.625em;
+  padding-top: 0.313em;
+  padding-bottom: 2.188em;
+  transition: 0.4s;
+  text-align: center;
+
+}
+
